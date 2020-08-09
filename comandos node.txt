@@ -1,0 +1,10 @@
+npm install express
+
+npm install nodemon -D
+
+(alterar no package.json o "scripts" com o destino que irá rodar o server ex: "dev": "nodemon src/server.js")
+
+executar no terminal (npm run dev)
+
+instalar template engine (npm install nunjucks)
+
