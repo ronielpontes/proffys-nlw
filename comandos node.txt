@@ -8,3 +8,7 @@ executar no terminal (npm run dev)
 
 instalar template engine (npm install nunjucks)
 
+instalar sqlite (npm install sqlite-async)
+
+comando para rodar o database (ex: node src/database/test.js)
+
