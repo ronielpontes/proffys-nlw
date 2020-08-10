@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/ronielpontes/proffys-nlw?color=orange)](https://github.com/ronielpontes/proffys-nlw/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/ronielpontes/proffys-nlw?color=darkgreen)](https://https://github.com/ronielpontes/proffys-nlw/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/ronielpontes/proffys-nlw)](https://github.com/ronielpontes/proffys-nlw/network)<space> <space> ![](https://img.shields.io/github/repo-size/ronielpontes/proffys-nlw)<space> <space> ![](https://img.shields.io/github/downloads/ronielpontes/proffys-nlw/total)
+[![GitHub stars](https://img.shields.io/github/stars/ronielpontes/proffys-nlw?color=orange)](https://github.com/ronielpontes/proffys-nlw/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/ronielpontes/proffys-nlw?color=darkgreen)](https://github.com/ronielpontes/proffys-nlw/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/ronielpontes/proffys-nlw)](https://github.com/ronielpontes/proffys-nlw/network)<space> <space> ![](https://img.shields.io/github/repo-size/ronielpontes/proffys-nlw)<space> <space> ![](https://img.shields.io/github/downloads/ronielpontes/proffys-nlw/total)
 
 </div>
 
