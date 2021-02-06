@@ -58,7 +58,7 @@ https://nodejs.org/en/
 https://gitforwindows.org/
 
 # Clonar o repositório
-git clone https://github.com/jhonathannc/nextlevelweek2
+git clone https://github.com/ronielpontes/proffys-nlw
 
 # Entrar no diretório
 cd proffys-nlw
